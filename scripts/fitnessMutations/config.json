@@ -1,0 +1,7 @@
+{
+    "home": "/local10G/rfhorns/Bcell/flu_highres",
+    "resources": "/local10G/rfhorns/resources",
+    "seedfile": "/local10G/rfhorns/Bcell/flu_highres/scripts/fitnessMutations/seedfile.txt",
+    "scratch": "LOCAL_SSD",
+    "partition": "normal"
+}
