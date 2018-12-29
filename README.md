@@ -2,9 +2,9 @@
 
 Code associated with Horns et al. (2019). This code was developed to analyze the population genetic signatures of selection in human B cells. Specifically, this repository contains:
 
-1. Workflows to perform phylogenetic and population genetic analysis of B cell lineages.
+1. Workflows to perform phylogenetic and population genetic analysis of B cell lineages
 
-2. Code to reproduce the figures in Horns et al. (2019).
+2. Code to generate figures
 
 ## Configuration
 
@@ -20,7 +20,7 @@ The workflows and code primarily use a Python 2.7 environment with numerous modu
 
 `source activate HornsSelection2019`
 
-### Environment for Snakemake workflows
+### Environment for Snakemake Workflows (Python 3.7)
 
 Several workflows use the [snakemake](https://snakemake.readthedocs.io/en/stable/) tool for deploying computation in a cluster-computing environment (e.g. a SLURM-based cluster). These workflows require a Python 3.7 environment. This environment can be created and activated by running the following.
 
@@ -52,7 +52,7 @@ Preprocessed data are available for [download](http://bit.ly/2BL83JV). This arch
 
 3. Clonal lineage features (`lineage_dynamics.csv`)
 
-These data are the input files for the code to reproduce the figures.
+These data are the input files for the code to generate the figures.
 
 ## Contents
 
