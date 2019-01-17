@@ -52,6 +52,8 @@ Preprocessed data are available for [download](http://bit.ly/2BL83JV). This arch
 
 3. Clonal lineage features (`lineage_dynamics.csv`)
 
+4. Unique identifiers of vaccine-responsive and persistent lineages (`lineage_uids_vaccine_responsive.txt` and `lineage_uids_persistent.txt`)
+
 These data are the input files for the code to generate the figures.
 
 ## Contents
